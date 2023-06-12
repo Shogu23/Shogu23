@@ -6,9 +6,6 @@
 ### <div align="center">I'm Charles, a "young" developer 👨‍💻 working and learning since 2019 🚀</div>  
   
 
-- 🃏 I’m currently working at Akkodis!
-  
-
 - 🔍 I’m currently learning Spring 3 & Angular 1x/15  
   
 
